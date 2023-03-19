@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Hobbies: Coding and Learn new things
+- ⚡ Hobbies: Coding,learning new things and reviewing myself
 
 ### Languages and Tools :
 
