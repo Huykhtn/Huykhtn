@@ -1,15 +1,11 @@
-### Hi there 👋
-
-<!--
-
-# Hi there, I'm  HuyLeKHTN👋 !
+# Hi there, I'm Huy👋 
 
 <h3>I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Hobbies: Coding,learning new things and reviewing myself
+- ⚡ Hobbies: Coding and Learn new things
 
 ### Languages and Tools :
 
@@ -30,4 +26,5 @@
 <br />
 
 ---
+
 
