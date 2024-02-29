@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Website+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Hobbies: Coding,learning new things and reviewing myself
